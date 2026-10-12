@@ -1,0 +1,9 @@
+build/
+dist/
+__pycache__/
+profiles/
+out/
+*.log
+safecut-selfcheck.txt
+safecut-analyze.txt
+safecut-build.txt
